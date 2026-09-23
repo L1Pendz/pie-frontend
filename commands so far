@@ -1,0 +1,4 @@
+npm create vite@latest pie-frontend -- --template react-ts
+npm i
+npm i styled-components
+npm i -D @types/styled-components
